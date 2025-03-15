@@ -1,0 +1,8 @@
+com\matchupchuc\meatsd2rbot\bot\Bot.class
+com\matchupchuc\meatsd2rbot\maps\MapData$Point.class
+com\matchupchuc\meatsd2rbot\bot\PindleBot.class
+com\matchupchuc\meatsd2rbot\Main.class
+com\matchupchuc\meatsd2rbot\maps\MapData.class
+com\matchupchuc\meatsd2rbot\bot\ChaosBot.class
+com\matchupchuc\meatsd2rbot\bot\CowsBot.class
+com\matchupchuc\meatsd2rbot\bot\LevelingBot.class
