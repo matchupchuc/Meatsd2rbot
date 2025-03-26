@@ -1,0 +1,14 @@
+2025-03-18 16:25:28 - Game State: {'Character Select': False, 'Difficulty Select': False, 'Hovered': False, 'Additional': {}}
+2025-03-18 16:25:29 - Game State: {'Character Select': False, 'Difficulty Select': False, 'Hovered': False, 'Additional': {}}
+2025-03-18 16:25:30 - Game State: {'Character Select': False, 'Difficulty Select': False, 'Hovered': False, 'Additional': {}}
+2025-03-18 16:25:32 - Game State: {'Character Select': False, 'Difficulty Select': False, 'Hovered': False, 'Additional': {}}
+2025-03-18 16:25:33 - Game State: {'Character Select': False, 'Difficulty Select': False, 'Hovered': False, 'Additional': {}}
+2025-03-18 16:25:34 - Game State: {'Character Select': False, 'Difficulty Select': False, 'Hovered': False, 'Additional': {}}
+2025-03-18 16:25:35 - Game State: {'Character Select': False, 'Difficulty Select': False, 'Hovered': False, 'Additional': {}}
+2025-03-18 16:25:37 - Game State: {'Character Select': False, 'Difficulty Select': False, 'Hovered': False, 'Additional': {}}
+2025-03-18 16:25:38 - Game State: {'Character Select': False, 'Difficulty Select': False, 'Hovered': False, 'Additional': {}}
+2025-03-18 16:25:39 - Game State: {'Character Select': False, 'Difficulty Select': False, 'Hovered': False, 'Additional': {}}
+2025-03-18 16:25:40 - Game State: {'Character Select': False, 'Difficulty Select': False, 'Hovered': False, 'Additional': {}}
+2025-03-18 16:25:42 - Game State: {'Character Select': False, 'Difficulty Select': False, 'Hovered': False, 'Additional': {}}
+2025-03-18 16:25:43 - Game State: {'Character Select': False, 'Difficulty Select': False, 'Hovered': False, 'Additional': {}}
+2025-03-18 16:25:44 - Game State: {'Character Select': False, 'Difficulty Select': False, 'Hovered': False, 'Additional': {}}
