@@ -1,0 +1,3 @@
+TeleportKey=F1
+AttackSkillKey=F2
+HealthThreshold=50
